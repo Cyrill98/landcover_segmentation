@@ -1,7 +1,9 @@
-# landcover_segmentation
+# Segmentation in Landcover from Aerial Imagery Dataset
 
 About the dataset: <br>
 (Land Cover from Aerial Imagery) dataset is a dataset for automatic mapping of buildings, woodlands, water and roads from aerial images
+
+Dataset link : https://landcover.ai
 
 <ul>Dataset features
     <li>land cover from Poland, Central Europe 1<li>
